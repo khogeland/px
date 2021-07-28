@@ -1,0 +1,6 @@
+[submodule "vendor/nim-colorsys"]
+	path = vendor/nim-colorsys
+	url = https://github.com/achesak/nim-colorsys
+[submodule "vendor/gifwriter"]
+	path = vendor/gifwriter
+	url = https://github.com/rxi/gifwriter
